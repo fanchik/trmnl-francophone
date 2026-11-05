@@ -1,0 +1,18 @@
+<div class="layout layout--col">
+  <div class="flex flex--col flex--center-x flex--center-y h--full px--4">
+    <div class="text--center">
+      <div class="label label--medium">UNE EXPRESSION FRANÇAISE</div>
+      <div class="value value--large" data-value-fit="true" data-value-fit-max-height="320">
+        {% if quote and quote != blank %}
+          « {{ quote | escape }} »
+        {% else %}
+          Expression momentanément indisponible.
+        {% endif %}
+      </div>
+      <div class="description">Source : Pas Fute Fute — Corentin Thomasset</div>
+    </div>
+  </div>
+</div>
+<div class="title_bar">
+  <span class="title">Pas Fute Fute</span>
+</div>
