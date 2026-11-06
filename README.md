@@ -7,7 +7,7 @@ Collection communautaire de plugins TRMNL en français.
 | Plugin | État | Source |
 | --- | --- | --- |
 | Pas Fute Fute | Prototype à tester sur TRMNL | https://github.com/CorentinTh/pas-fute-fute |
-| Blague du jour | Préparation — conditions d'attribution à clarifier | https://deviens-marrant.fr/developers |
+| Blague du jour | Recherche et sélection éditoriale de blagues de papa en français | https://www.blablagues.net/apix.html (candidat) |
 | Le saviez-vous ? | Préparation — sélection des données | https://github.com/viorizz/OpenTriviaQA-FR |
 
 ## Démarrage
