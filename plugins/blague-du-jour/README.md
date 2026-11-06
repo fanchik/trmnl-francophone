@@ -1,9 +1,20 @@
-# Blague du jour — préparation
+# Blague du jour — blagues de papa francophones
 
-Source : https://deviens-marrant.fr/developers
+Objectif : de courtes blagues originellement formulées en français (jeux de mots, devinettes, combles, Monsieur et Madame, humour Carambar), sans traduction automatique et sans génération IA.
 
-API pressentie : `https://deviens-marrant.fr/api/widget/v1/vanne-du-jour`.
+## Sources candidates (aucune validée à ce stade)
 
-Le service impose une attribution visible, le respect du texte, et des limites de conservation. **Avant de publier**, vérifier qu'une attribution non cliquable avec URL lisible sur écran TRMNL convient au fournisseur.
+- [Blablagues — API JSON](https://www.blablagues.net/apix.html) : filtrage par catégories, contenu sous CC BY-NC-SA 4.0 avec attribution des auteurs et du site, usage non commercial et partage à l'identique des adaptations. L'API impose aussi un lien : vérifier l'usage sur écran non cliquable.
+- [Blagues API](https://www.blagues-api.fr/) : API communautaire avec token et catégories ; clarifier les droits sur les textes.
 
-Aucun code de diffusion ni corpus de blagues n'est publié à ce stade.
+## Critères de qualité
+
+1. Des jeux de mots réellement français, pas des traductions littérales.
+2. Une amorce et une chute courtes, lisibles sur écran TRMNL.
+3. Sélection éditoriale manuelle avant la publication.
+4. Attribution et conditions de chaque source respectées.
+5. Pas de copie massive des corpus sans droits explicites.
+
+## État
+
+Aucun code de publication ni corpus tiers pour l'instant. Prochaine étape : tester une série représentative de blagues et choisir une source ou un corpus sous une licence compatible.
