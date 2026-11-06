@@ -7,12 +7,23 @@
 - Code source annoncé sous licence MIT ; conserver les mentions de licence pertinentes.
 - Les textes ne sont pas copiés dans ce dépôt ; vérifier les conditions de réutilisation des contributions avant toute redistribution d'un corpus.
 
-## Deviens Marrant
+## Blague du jour — candidats
 
-- Conditions : https://deviens-marrant.fr/developers
-- API : https://deviens-marrant.fr/api/widget/v1/vanne-du-jour
-- Affichage soumis à des conditions : attribution et lien visibles, texte non modifié, cache limité, interdiction de constituer une archive.
-- Demander l'accord du fournisseur pour une attribution sur écran non cliquable avant publication publique.
+### Blablagues
+
+- API : https://www.blablagues.net/apix.html
+- Conditions et licences : https://www.blablagues.net/mentions.html
+- Filtrage par catégorie possible ; contenu communautaire.
+- Contenus annoncés sous CC BY-NC-SA 4.0 : attribution de chaque auteur et du site, usage non commercial, partage à l'identique des adaptations.
+- Le service API demande également un lien vers le site. Vérifier la compatibilité avec l'affichage TRMNL avant publication.
+- **Pas encore validé comme source définitive** : tester la qualité et le format des blagues.
+
+### Blagues API
+
+- Site : https://www.blagues-api.fr/
+- API authentifiée et catégories excluables.
+- Licence MIT du programme != licence des textes. Clarifier les droits avant tout éventuel stockage ou redistribution.
+- **Pas encore validé comme source définitive**.
 
 ## OpenTriviaQA-FR
 
